@@ -1,0 +1,6 @@
+[package]
+name = "florin"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
